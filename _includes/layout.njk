@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ title }} | {{ siteData.companyName }}</title>
+  <meta name="description" content="{{ metaDescription }}">
+  <meta name="keywords" content="{{ metaKeywords }}">
+  <link rel="shortcut icon" href="/assets/img/favicon.ico">
+  <link rel="stylesheet" href="/assets/css/plugins.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  {#  <link rel="stylesheet" href="/assets/css/colors/blue.css"> #}
+</head>
+
+<!-- Google tag (gtag.js) -->
+{#<script async src="https://www.googletagmanager.com/gtag/js?id=G-GV7V6JPDFJ"></script>#}
+{#<script>#}
+{#  window.dataLayer = window.dataLayer || [];#}
+{#  function gtag(){dataLayer.push(arguments);}#}
+{#  gtag('js', new Date());#}
+
+{#  gtag('config', 'G-GV7V6JPDFJ');#}
+{#</script>#}
+
+<body>
+<div class="content-wrapper">
+  {% include "header.njk" %}
+  {{ content | safe }}
+  {% include "footer.njk" %}
+</div>
+</body>
+
+<script src="/assets/js/plugins.js"></script>
+<script src="/assets/js/theme.js"></script>
+
+</html>
