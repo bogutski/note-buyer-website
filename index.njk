@@ -93,11 +93,11 @@ metaKeywords: sell mortgage note, promissory note buyers, real estate note selli
 
 
 <section class="section-frame mx-xxl-11 pt-md-17 pb-21 pb-md-23 ">
-  <div class="wrapper image-wrapper  bg-soft-aqua bg-cover bg-overlay bg-overlay-light-500 section-frame-wrapper" data-image-src="./assets/img/photos/blurry.png">
+  <div class="wrapper image-wrapper  bg-gradient-aqua bg-cover bg-overlay bg-overlay-light-300 section-frame-wrapper" data-image-src="./assets/img/photos/blurry.png">
     <div class="container py-10 py-md-10">
       <div class="row">
         <div class="col-md-11 col-lg-10 col-xl-9 mx-auto text-center">
-          <h3 class="display-2 mb-10 px-xxl-10">We buy notes</h3>
+          <h3 class="display-2 mb-10 px-xxl-10">We buy Real Estate notes</h3>
         </div>
         <!-- /column -->
       </div>
@@ -112,6 +112,16 @@ metaKeywords: sell mortgage note, promissory note buyers, real estate note selli
                   <div class="card-body">
                     <h5 class="mb-1">{{ item.title }}</h5>
                     <p>{{ item.description }}</p>
+
+                    <ul class="unordered-list bullet-primary">
+                      {%- for post in collections[item.tag] -%}
+                        <li>
+                          <a href="{{ post.data.permalink }}" class="hover text-leaf">{{ post.data.title }}</a>
+                        </li>
+                      {%- endfor -%}
+                    </ul>
+
+
                   </div>
                   <!-- /.card-body -->
                 </div>

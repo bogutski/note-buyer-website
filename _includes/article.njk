@@ -1,0 +1,39 @@
+---
+layout: layout.njk
+---
+
+<section class="wrapper bg-gradient-aqua">
+  <div class="container pt-10 pb-10 pt-md-14 pb-md-10">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="post-header">
+          <h1 class="display-1">{{ title }}</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="container pb-14 pb-md-16">
+  <div class="row">
+    <div class="col-lg-8">
+      {{ content | safe }}
+    </div>
+
+    <div class="col-lg-4">
+      <div class="card shadow-lg">
+        <div class="card-body">
+          <ul class="unordered-list bullet-primary">
+            {%- for post in collections[tags] -%}
+              <li>
+                <a href="{{ post.data.permalink }}" class="hover text-leaf">{{ post.data.title }}</a>
+              </li>
+            {%- endfor -%}
+          </ul>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
