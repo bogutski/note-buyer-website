@@ -231,3 +231,21 @@ bond for deed  1000
 installment sale contract  200
 bond for deed vs. mortgage  100
 bond for deed requirements  50
+
+## /immediate-cash-for-notes
+immediate cash  150
+immediate cash flow  10
+immediate cash  advance 600
+financial instruments  1600
+financial needs  500
+structured settlements  450
+
+## /mortgage-note-investments
+note investments  10
+structured note investments  100
+investment benefits  30
+financial due diligence  1200
+due diligence real estate  1400
+
+## /guide-to-note-purchasing-companies
+selling promissory notes  150
