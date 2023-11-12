@@ -1,54 +1,3 @@
-=======PAGES THAT SHOULD BE ADDED=======
-
-## note servicing
-note servicing  1000
-note management  500
-note administration  400
-note processing  300
-note tracking  200
-note collection  100
-note reconciliation  50
-
-## mortgage note marketplace
-mortgage notes for sale  1900
-how to invest in mortgage notes  1800
-mortgage note investing guide  1500
-mortgage note investing risks 1400
-mortgage note investing returns 1300
-mortgage note investing vs real estate  1200
-mortgage note investing strategies  1100
-mortgage note investing FAQ 400
-mortgage note investing for beginners 500
-
-## partial note selling
-partial note selling  1000
-sell partial notes  820
-fractional note investing  650
-buy partial notes  500
-partial note investment  420
-fractional note market  350
-fractional note trading  200
-fractional note valuation  160
-partial note liquidity  140
-fractional note benefits  120
-partial note risks  100
-
-## real estate investment strategies
-real estate investing for beginners  1600
-how to invest in real estate  1200
-real estate investment tips  1000
-real estate investment advice  800
-real estate investment guide  700
-real estate investment strategies for beginners  400
-passive real estate investments  350
-high-yield real estate investments  300
-low-risk real estate investments  250
-best real estate investment strategies  200
-long-term real estate investment strategies  120
-short-term real estate investment strategies  80
-
-=======PAGES THAT SHOULD BE ADDED=======
-
 ## /
 promissory note  30000
 what is a promissory note  4200
@@ -249,3 +198,74 @@ due diligence real estate  1400
 
 ## /guide-to-note-purchasing-companies
 selling promissory notes  150
+
+## mortgage note servicing
+mortgage note servicing  2900
+mortgage servicing  12100
+mortgage note investors  1100
+mortgage note buyers  1100
+mortgage note sellers  600
+
+## promissory note servicing
+promissory note servicing  700
+note servicing  1000
+note management  500
+note processing  300
+note administration  400
+
+## comprehensive guide to mortgage note marketplaces
+mortgage notes for sale  1900
+how to invest in mortgage notes  1800
+mortgage note investing guide  1500
+mortgage note investing risks  1400
+mortgage note investing returns  1300
+mortgage note investing vs real estate  1200
+mortgage note investing strategies  1100
+mortgage note investing FAQ  400
+mortgage note investing for beginners  500
+
+## partial mortgage note selling
+partial mortgage note sale  100
+sell part of mortgage note  50
+sell portion of mortgage note  20
+partial note selling  1000
+sell partial notes  820
+fractional note investing  650
+buy partial notes  500
+partial note investment  420
+fractional note market  350
+fractional note trading  200
+fractional note valuation  160
+partial note liquidity  140
+fractional note benefits  120
+partial note risks  100
+
+## partial promissory note selling
+partial promissory note sale  100
+sell part of promissory note  50
+sell portion of promissory note  20
+partial note selling  1000
+sell partial notes  820
+fractional note investing  650
+buy partial notes  500
+partial note investment  420
+fractional note market  350
+fractional note trading  200
+fractional note valuation  160
+partial note liquidity  140
+fractional note benefits  120
+partial note risks  100
+
+## real estate investment strategies
+real estate investing for beginners  1600
+how to invest in real estate  1200
+real estate investment tips  1000
+real estate investment advice  800
+real estate investment guide  700
+real estate investment strategies for beginners  400
+passive real estate investments  350
+high-yield real estate investments  300
+low-risk real estate investments  250
+best real estate investment strategies  200
+long-term real estate investment strategies  120
+short-term real estate investment strategies  80
