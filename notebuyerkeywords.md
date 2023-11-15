@@ -198,22 +198,25 @@ due diligence real estate  1400
 
 ## /guide-to-note-purchasing-companies
 selling promissory notes  150
+note purchasing companies  1000
+sell promissory notes  500
+seller-financed notes  300
 
-## mortgage note servicing
+## mortgage-note-servicing
 mortgage note servicing  2900
 mortgage servicing  12100
 mortgage note investors  1100
 mortgage note buyers  1100
 mortgage note sellers  600
 
-## promissory note servicing
+## promissory-note-servicing
 promissory note servicing  700
 note servicing  1000
 note management  500
 note processing  300
 note administration  400
 
-## comprehensive guide to mortgage note marketplaces
+## comprehensive-guide-to-mortgage-note-marketplaces
 mortgage notes for sale  1900
 how to invest in mortgage notes  1800
 mortgage note investing guide  1500
@@ -224,7 +227,7 @@ mortgage note investing strategies  1100
 mortgage note investing FAQ  400
 mortgage note investing for beginners  500
 
-## partial mortgage note selling
+## partial-mortgage-note-selling
 partial mortgage note sale  100
 sell part of mortgage note  50
 sell portion of mortgage note  20
@@ -240,7 +243,7 @@ partial note liquidity  140
 fractional note benefits  120
 partial note risks  100
 
-## partial promissory note selling
+## partial-promissory-note-selling
 partial promissory note sale  100
 sell part of promissory note  50
 sell portion of promissory note  20
@@ -256,7 +259,7 @@ partial note liquidity  140
 fractional note benefits  120
 partial note risks  100
 
-## real estate investment strategies
+## real-estate-investment-strategies
 real estate investing for beginners  1600
 how to invest in real estate  1200
 real estate investment tips  1000
@@ -269,3 +272,243 @@ low-risk real estate investments  250
 best real estate investment strategies  200
 long-term real estate investment strategies  120
 short-term real estate investment strategies  80
+
+## /note-buying-rates
+note buying rates  1900
+promissory note buying rates  1100
+discount rates for promissory notes  900
+yield rates for promissory notes  800
+how to sell promissory notes  800
+get cash for promissory note  700
+sell promissory note for cash  800
+
+## /guide-to-selling-land-contracts
+land contract seller  200
+how to sell a land contract  300
+land contract benefits  200
+land contract drawbacks  200
+land contract alternatives  300
+how does a land contract work  600
+land contract definition  450
+
+## /real-estate-note-market
+real estate note investment  2900
+buy real estate note  2100
+real estate note funds  1600
+real estate note servicing  1000
+real estate note types  750
+real estate note risks  600
+real estate note rewards  300
+invest in real estate notes  200
+real estate note online  150
+
+## /sell-mortgage-note-with-brokers
+mortgage note brokers  1000
+sell mortgage note with broker  100
+mortgage note lenders  1000
+
+## /sell-your-notes-online
+sell notes online  1000
+online note buyers  700
+sell mortgage notes online  600
+sell promissory notes online  500
+sell structured settlement annuities online  400
+evaluate note value  500
+tax implications of selling a note  500
+legal considerations of selling a note  700
+advantages of selling notes online  500
+steps to sell notes online  500
+how to choose an online note buyer  500
+
+## /guide-to-fast-note-purchasing
+fast note purchasing  1000
+sell notes quickly  1000
+quick note purchase  1000
+buy notes fast  1000
+fast note buyer  1000
+fast note selling  1000
+immediate note purchase  1000
+
+## /guide-to-note-buying-platforms
+note buying platforms  200
+sell structured settlements  60
+sell business notes  50
+sell annuities  40
+benefits of using note buying platforms  40
+how to choose a note buying platform  40
+reputable note buying platforms  100
+
+## /mortgage-note-auctions
+mortgage note auction  1000
+distressed mortgage note  800
+mortgage note investing  500
+mortgage note checklist  300
+mortgage note due diligence  100
+mortgage note foreclosure  200
+
+## /selling-promissory-note
+sell promissory note  300
+promissory note buyers  600
+sell promissory note online  50
+how to sell a promissory note  400
+companies that buy promissory notes  40
+promissory note sale  100
+
+## /note-buying-quotes
+note buying quotes  100
+note buying process  100
+note buying laws and regulations  100
+invest in promissory notes  100
+mortgage note buying  100
+state note buying laws  100
+
+## /mortgage-note-evaluations
+mortgage note evaluations  100
+mortgage note investor  50
+mortgage note value	 1000
+mortgage note sale  100
+
+## /top-note-buying-services
+sell promissory notes  1000
+note buying services  700
+promissory note buyers  600
+promissory note buying companies  500
+how to sell a promissory note  400
+top note buying services  300
+best note buying companies  50
+
+## /note-selling-tips
+sell promissory note  300
+promissory note buyer  150
+promissory note value  200
+
+## /mortgage-note-faqs
+mortgage note FAQs  100
+mortgage note with delinquent payments  60
+mortgage note companies  60
+mortgage note tax implications  60
+advantages of selling mortgage note  60
+mortgage note sale process  20
+
+## /benefits-of-selling-note
+sell promissory note  300
+benefits of selling a note  200
+promissory note buyer  150
+sell note for cash  200
+sell a promissory note for cash  100
+
+## /risks-of-holding-mortgage-note
+mortgage note risks  400
+risks of investing in mortgage notes  200
+mortgage note investment risks  100
+mortgage note defaults  300
+prepayment risk  100
+interest rate risk  300
+legal risks of holding a mortgage note  100
+
+## /mortgage-note-due-diligence
+mortgage note due diligence  100
+mortgage note investing  500
+mortgage note insurance and taxes  50
+
+## /how-to-sell-mortgage-note
+how to sell mortgage note  500
+mortgage note selling  400
+sell mortgage note  300
+mortgage note buyers  1100
+
+## /note-buying-contracts
+note buying contracts  1200
+sell mortgage note  300
+mortgage note purchase agreement  1000
+note selling  400
+
+## /mortgage-note-terms
+discount rate  1200
+payment terms  1900
+closing process  1100
+remaining term  1000
+interest rate  43000
+
+## /note-buying-strategies
+mortgage note investing  500
+performing notes  2900
+non-performing notes  2100
+first position notes  1700
+second position notes  1300
+note brokering  1100
+foreclosure laws  3100
+
+## /real-estate-note-trends
+real estate note trends  1000
+real estate note investing  500
+real estate note laws  200
+real estate note regulations  200
+truth in lending act  1000
+sell real estate notes  300
+securitization of real estate notes  200
+
+## /mortgage-note-industry-news
+mortgage note industry  2900
+selling mortgage notes  2100
+mortgage note news  1600
+mortgage note rates  1200
+mortgage note regulations  800
+mortgage note consolidation  400
+
+## /note-buying-forums
+note buying forums  2100
+promissory note  1100
+note valuation  1400
+legal considerations for note buying  720
+note buying resources  540
+advantages of note buying forums  380
+how to buy notes on forums  410
+note buying tips  320
+expert advice on note buying  290
+
+## /mortgage-note-testimonials
+mortgage note testimonials  1000
+sell mortgage notes	 200
+
+## /note-selling-case-studies
+mortgage note case studies  100
+passive income with mortgage notes  100
+diversify investment portfolio with mortgage notes  100
+resolve non performing mortgage notes  100
+mortgage note selling for estate planning  100
+
+## /mortgage-note-calculators
+mortgage note calculator  10000
+mortgage note value	 1000
+mortgage note calculator online  100
+
+## /note-buying-resources
+note buying resources  540
+debt instruments  10000
+
+## /mortgage-note-legalities
+mortgage note legalities  100
+mortgage note enforceability  50
+mortgage note legal requirements  100
+
+## /note-tax-implications
+note tax implications  100
+mortgage note taxation  50
+note investment tax  50
+interest income from notes  50
+capital gains from notes  10
+
+## /mortgage-note-documentation
+mortgage note documentation  1600
+mortgage note legal aspects  880
+mortgage note laws  440
+mortgage note importance  330
+mortgage note guide  220
+mortgage note examples  100
+
+## /note-selling-benefits
+structured settlement payment streams  1100
+note evaluation  1300
+note risk mitigation  820
+note financial freedom  680
