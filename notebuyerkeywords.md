@@ -512,3 +512,137 @@ structured settlement payment streams  1100
 note evaluation  1300
 note risk mitigation  820
 note financial freedom  680
+
+## /understanding-mortgage-note-pricing
+mortgage note pricing  100
+mortgage note valuation	 2500
+factors influencing mortgage note value  200
+mortgage note pricing dynamics  500
+mortgage note pricing process  200
+
+## /note-buying-negotiations
+note buying negotiations  1000
+mortgage note sales  10000
+
+## /mortgage-note-payment-streams
+mortgage note payment stream  1100
+mortgage note investment  400
+mortgage note vs. mortgage loan  800
+mortgage note amortization  500
+mortgage note refinancing  600
+mortgage note prepayment  400
+
+## /note-buying-networks
+note buying networks  1000
+real estate investment trusts (REITs)  10000
+real estate crowdfunding  10000
+
+## /mortgage-note-associations
+mortgage note associations  100
+buying mortgage notes  1000
+selling mortgage notes  2100
+mortgage note market  200
+
+## /note-buying-events
+note buying events  1000
+note investing conferences  1200
+note investment conventions  800
+real estate networking events  1800
+note buying opportunities  1200
+
+## /mortgage-note-seminars
+mortgage note seminars  10000
+real estate seminars  10000
+real estate investment strategies  10000
+mortgage note investing for beginners  1000
+mortgage note investing guide  1500
+
+## /note-buying-webinars
+note buying webinars  100
+real estate note investing webinars  150
+how to invest in real estate notes  1300
+real estate note investment strategies  800
+evaluating real estate notes  100
+
+## /mortgage-note-courses
+mortgage note courses  1000
+mortgage note acquisition  100
+mortgage note exit strategies  100
+mortgage note market analysis  100
+mortgage note investment guidance  100
+
+## /note-buying-blogs
+note buying blogs  300
+note buying guide  100
+note buying resources  540
+
+## /mortgage-note-podcasts
+mortgage note podcasts  100
+non-performing notes  2100
+
+## /note-buying-videos
+note buying videos  170
+how to buy notes  100
+note investing for beginners  320
+
+## /mortgage-note-ebooks
+mortgage note ebooks  1000
+mortgage note basics  500
+due diligence mortgage notes  300
+legal aspects mortgage notes  300
+risk mitigation mortgage notes  300
+
+## /guide-to-buying-notes
+note buying  1600
+financial notes  2100
+promissory notes  880
+business promissory notes  550
+invest in notes  360
+note buying strategies  200
+risks of note buying  160
+
+## /mortgage-note-templates
+mortgage note transactions  10000
+mortgage note templates  1000
+mortgage note sale agreement  100
+mortgage note purchase request  100
+real estate note transactions  100
+portfolio diversification  10000
+
+## /note-buying-checklists
+note buying  1600
+note buying checklist  200
+mortgage note buying  100
+how to buy notes  100
+
+## /mortgage-note-glossary
+mortgage glossary  1000
+mortgage terms  800
+mortgage note definition  200
+what is a mortgage note  700
+mortgage lien  100
+mortgage note investor  50
+
+## /note-buying-terms-and-definitions
+note buying  1600
+promissory note  30000
+mortgage note  2900
+performing note  2900
+due diligence  13500
+loan to value (LTV)  4400
+discounted note  1200
+exit strategy  11700
+
+## /mortgage-note-case-law
+Mortgage note case law  1000
+foreclosure laws  3100
+Consumer protection  10000
+Real estate law  10000
+Homeowner rights  1000
+Investor rights  1000
+
+## /note-buying-regulations
+note buying regulations  1000
+state regulations  10000
+note buying process  100
+tips for navigating regulations  100
