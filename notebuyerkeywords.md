@@ -643,3 +643,218 @@ note buying regulations  1000
 state regulations  10000
 note buying process  100
 tips for navigating regulations  100
+
+## /licensing-for-selling-mortgage-notes
+mortgage note selling licensing  1000
+how to get a mortgage note selling license  1000
+benefits of mortgage note selling licensing  1000
+mortgage note selling license requirements  100
+mortgage note selling license renewal  100
+
+## /note-buying-ethics
+note buying ethics  1000
+ethical real estate note buying  1000
+ethical note buying practices  100
+how to buy notes ethically  100
+the importance of ethics in note buying  100
+
+## /mortgage-note-statistics
+mortgage note statistics  1000
+property investment  10000
+mortgage interest rates  10000
+real estate market trends  1000
+loan modifications  100
+
+## /note-buying-research
+note buying  1600
+promissory notes  880
+income-generating assets  10500
+debt obligations  1600
+legal considerations  7100
+market analysis  16000
+negotiation strategies  12000
+investment potential  11200
+
+## /mortgage-note-studies
+mortgage note studies  500
+mortgage backed investments  200
+passive income investments  500
+
+## /note-buying-whitepapers
+whitepapers  10000
+business notes  50
+risk assessment  5000
+legal and regulatory guidance  10000
+
+## /mortgage-note-directories
+mortgage note directory  1000
+mortgage note investors  1100
+mortgage note marketplace  1000
+mortgage note funding  1000
+mortgage note for sale  1000
+
+## /note-buying-associations
+note buying associations  2900
+real estate note investors  1000
+note buying companies  20
+mortgage note brokers  1000
+real estate note brokers  1000
+
+## /mortgage-note-memberships
+mortgage note memberships  5000
+diversify investment portfolio  4000
+steady cash flow  3000
+long-term investment  4000
+financial flexibility  1000
+wealth accumulation  1000
+
+## /note-buying-partnerships
+note buying partnerships  1000
+debt instrument investing  1000
+note buying funds  100
+non-performing note investing  200
+performing note investing  100
+note buying syndication  100
+
+## /mortgage-note-collaborations
+mortgage note collaborations  1000
+trusted partner  10000
+mortgage note funding  1000
+
+## /note-buying-sponsorships
+mortgage note financing  820
+mortgage note investment  400
+
+## /mortgage-note-advertising
+mortgage note advertising  1000
+mortgage note marketing  100
+mortgage note companies  60
+mortgage note lenders  1000
+mortgage note loans  100
+
+## /note-buying-marketing
+passive income from real estate  27100
+high return real estate investments  11200
+
+## /mortgage-note-referrals
+mortgage note referrals  100
+cash in on mortgage note  100
+
+## /note-buying-testimonials
+note buying testimonials  1600
+note buying success stories  500
+legal framework of note buying  400
+note buying strategies  200
+
+## /mortgage-note-reviews
+mortgage note review  500
+mortgage note investing  500
+how to sell a mortgage note	 2000
+mortgage note valuation	 2500
+
+## /success-stories-in-note-buying
+real estate note buying  1000
+real estate note buying success stories  1300
+note buying terminology  880
+legal aspects of note buying  700
+choose a note buying company  550
+
+## /mortgage-note-challenges
+mortgage note challenges  100
+mortgage note solutions  1000
+mortgage note market volatility  100
+mortgage note payment delinquency  100
+mortgage note default risk  100
+mortgage note expert  1000
+mortgage note regulations  800
+
+## /note-buying-solutions
+note buying solutions  1100
+cash out mortgage notes  800
+sell mortgage notes for cash  700
+sell structured settlements  60
+note buying for businesses  400
+commercial real estate note buying  300
+
+## /mortgage-note-innovations
+mortgage note innovations  2900
+digital mortgage notes  1000
+blockchain mortgage notes  500
+automated valuation models  1200
+peer-to-peer (P2P) lending  2400
+smart contracts mortgage  1000
+
+## /note-buying-technologies
+note buying technologies  1000
+structured settlements for sale  1000
+real estate notes for sale  2000
+
+## /mortgage-note-software
+mortgage note software  2100
+mortgage note management  1100
+mortgage note tracking  660
+mortgage note automation  440
+mortgage note reporting  330
+mortgage note risk assessment  220
+mortgage note compliance  110
+
+## /note-buying-apps
+note buying apps  10000
+structured settlement buyout  1000
+business note investment  1000
+loan note investing  1000
+best note buying apps  100
+
+## /power-of-mortgage-note-tools
+mortgage note tools  1300
+mortgage note marketplaces  500
+due diligence for mortgage notes  200
+
+## /sell-mortgage-note
+sell mortgage note  300
+mortgage note buyer  100
+how to sell mortgage note  500
+mortgage note value	 1000
+sell mortgage note online  310
+best way to sell mortgage note  270
+what is a mortgage note  700
+mortgage note vs. promissory note  190
+mortgage note vs. deed of trust  160
+
+## /best-place-to-sell-notes
+sell mortgage notes	 200
+mortgage notes valuation  1000
+mortgage notes buyers  100
+mortgage notes market trends  1000
+mortgage note investment  400
+mortgage note sale process  20
+mortgage note due diligence  100
+mortgage note tax implications  60
+
+## /selling-promissory-notes
+sell promissory notes  1000
+promissory note valuation  1000
+legal considerations for selling promissory notes  1000
+promissory note brokers  1000
+sell promissory notes online  500
+
+## /how-to-sell-a-deed-of-trust
+sell deed of trust  4800
+deed of trust value  3900
+how to sell a deed of trust  2400
+deed of trust buyer  1200
+deed of trust sale process  1000
+deed of trust vs mortgage  500
+types of deeds of trust  600
+deed of trust tax implications  500
+deed of trust legal process  300
+
+## /where-to-sell-land-contracts
+sell land contracts  1000
+sell installment land contracts  100
+sell lease option contracts  100
+land contract buyers  1000
+how to sell land contracts  1000
+land contract value  1000
+legal requirements for selling land contracts  100
+benefits of selling land contracts  100
