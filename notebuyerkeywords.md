@@ -19,13 +19,17 @@ financial management  9700
 personal financial management  1500
 
 **(mortgage sell steps, scam) should be added**
-## /how-to-sell-a-mortgage-note
+## /mortgage-note-sale
 note sale  100
 how to sell a mortgage note	 2000
 sell my mortgage note  300
 sell mortgage notes	 200
 mortgage note sale  100
 mortgage note marketplace  1600
+how to sell mortgage note  500
+mortgage note selling  400
+sell mortgage note  300
+mortgage note buyers  1100
 
 ## /mortgage-note-valuation
 mortgage note valuation	 2500
@@ -89,7 +93,7 @@ sell my real estate note  400
 real estate note sale  300
 real estate note buyer  100
 
-## /how-to-chosse-the-best-note-buying-company
+## /how-to-choose-the-best-note-buying-company
 mortgage note buying companies  100
 note buying companies  20
 note buyers  500
@@ -344,7 +348,6 @@ distressed mortgage note  800
 mortgage note investing  500
 mortgage note checklist  300
 mortgage note due diligence  100
-mortgage note foreclosure  200
 
 ## /selling-promissory-note
 sell promissory note  300
@@ -410,12 +413,6 @@ legal risks of holding a mortgage note  100
 mortgage note due diligence  100
 mortgage note investing  500
 mortgage note insurance and taxes  50
-
-## /how-to-sell-mortgage-note
-how to sell mortgage note  500
-mortgage note selling  400
-sell mortgage note  300
-mortgage note buyers  1100
 
 ## /note-buying-contracts
 note buying contracts  1200
