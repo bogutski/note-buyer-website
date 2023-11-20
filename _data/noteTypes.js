@@ -33,5 +33,20 @@ module.exports = [
     title: 'Bond for Deed',
     description: 'A bond for deed is a type of real estate sale where a buyer makes a series of payments to the seller, and when the payments are completed, the seller transfers the deed to the property.',
     tag: 'bond-for-deed'
+  },
+  {
+    title: 'Note Buying Manipulation',
+    description: 'Note Buying Manipulation allows to buy or sell different types of notes, such as mortgage notes, real estate notes, promissory note and more.',
+    tag: 'note-buying-manipulation'
+  },
+  {
+    title: 'Educational Resources for Buying Notes',
+    description: 'Embark on a transformative journey into the world of finance with our exclusive collection of educational resources designed for purchasing notes.',
+    tag: 'educational-resources'
+  },
+  {
+    title: 'Resources for Buying Notes',
+    description: 'Resources for selling notes refers to tools, platforms, or strategies that can be used to sell notes',
+    tag: 'resources-for-selling-notes'
   }
 ];

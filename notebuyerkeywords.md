@@ -677,8 +677,8 @@ investment potential  11200
 
 ## /mortgage-note-studies
 mortgage note studies  500
-mortgage backed investments  200
-passive income investments  500
+mortgage-backed investment  200
+passive income investment  500
 
 ## /note-buying-whitepapers
 whitepapers  10000
@@ -838,7 +838,7 @@ legal considerations for selling promissory notes  1000
 promissory note brokers  1000
 sell promissory notes online  500
 
-## /how-to-sell-a-deed-of-trust
+## /sell-deed-of-trust
 sell deed of trust  4800
 deed of trust value  3900
 how to sell a deed of trust  2400
@@ -849,7 +849,7 @@ types of deeds of trust  600
 deed of trust tax implications  500
 deed of trust legal process  300
 
-## /where-to-sell-land-contracts
+## /sell-land-contracts
 sell land contracts  1000
 sell installment land contracts  100
 sell lease option contracts  100
