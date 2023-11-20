@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e3fe1a01-edf6-4ea9-8a11-bf24060edea0" name="Ukraine ua">
+        <fileTransfer accessType="SFTP" host="pasv1.ftp.tools" port="22" sshConfigId="9a3c21b8-950e-4e0d-b0a1-b81462c5ef1e" sshConfig="pasv1@pasv1.ftp.tools:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
